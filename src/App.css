@@ -36,3 +36,7 @@
     transform: rotate(360deg);
   }
 }
+.gradient {
+  background-color: bisque;
+  background-image: linear-gradient(90deg, bisque 0%, #212069);
+}
